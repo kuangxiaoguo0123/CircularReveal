@@ -4,6 +4,8 @@ Android circularReveal Animation
 # ScreenShots
 ![](https://github.com/kuangxiaoguo0123/CircularReveal/blob/master/screenshots/first.gif)
 ![](https://github.com/kuangxiaoguo0123/CircularReveal/blob/master/screenshots/firstimage.png)
+
+# Change the center and radius of the circle.
 ![](https://github.com/kuangxiaoguo0123/CircularReveal/blob/master/screenshots/second.gif)
 ![](https://github.com/kuangxiaoguo0123/CircularReveal/blob/master/screenshots/second.png)
 
